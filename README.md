@@ -13,9 +13,14 @@ The dynamic mobile interface allows users to: <br>
 
 The online HIPAA-compliant application allow users to share PHI securely on the go. <br>
 
-**Note:** Users can ***[contact](https://support@charmhealth.com)*** directly for any mPHR-related queries. <br>
+**Note:** Users can **[contact](https://support@charmhealth.com)*** directly for any mPHR-related queries. <br>
 
 **Disclaimer:**  The patient details in the user guide images are for reference only. <br>
 
-**Downloading the Application**
+**Downloading the Application** <br>
+
+ User can download and install the Charm PHR application from the [google play store](https://www.play.google.com) Android. <br>
+
+ 
+
 
