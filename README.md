@@ -28,10 +28,10 @@ The online HIPAA-compliant application allow users to share PHI securely on the 
 
 Signup into your Charm PHR account using a browser. Then follow thsese step to log in to the application. <br>
 
-* Tap on the **'Login'** button
-* Enter your PHR account **'Username'** and **'Password**'. <br>
-* Create five digit lock screen PIN.
-* Re-enter the lock screen PIN to confirm the same.
+1. Tap on the **'Login'** button
+2. Enter your PHR account **'Username'** and **'Password**'. <br>
+3. Create five digit lock screen **PIN**.
+4. Re-enter the lock screen **PIN** to confirm the same.
 
 
  
